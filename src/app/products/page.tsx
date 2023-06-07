@@ -1,4 +1,4 @@
-import { Product, getProducts } from "@/api/products";
+import { Product, getProducts } from "@/service/products";
 import MeowArticle from "@/components/MeowArticle";
 import Image from "next/image";
 import Link from "next/link";
