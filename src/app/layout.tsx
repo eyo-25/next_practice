@@ -28,7 +28,7 @@ export default function RootLayout({
     <html lang="en" className={inter.className}>
       <body>
         <header className={styles.header}>
-          <h1 className={nanumGothic.className}>Demo Note App ver.2</h1>
+          <h1 className={nanumGothic.className}>Demo Note App ver.3</h1>
           <nav className={styles.nav}>
             <Link href='/products'>Products</Link>
             <Link href='/about'>About</Link>
